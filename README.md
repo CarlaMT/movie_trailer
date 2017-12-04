@@ -5,10 +5,10 @@ This project consists of six of my favorite movie
 trailers displayed on a website.  After movie images are clicked
 on the trailers play.
 
-### media.py
-Created an instance of class movie which includes, the movie title,
-storyline, poster image, and trailer. In addition, a function to open
-the movie trailer in a web browser.
+1. ### media.py
+    Created an instance of class movie which includes, the movie title,
+    storyline, poster image, and trailer. In addition, a function to open
+    the movie trailer in a web browser.
 
 ### entertainment_center.py
 Created and defined multiple instances of the class movie which
